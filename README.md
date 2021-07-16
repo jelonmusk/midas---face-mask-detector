@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jelonmusk/midas/issues)
-[![MIT License](https://img.shields.io/github/license/jelonmusk/final-year-project.svg?style=flat-square)](https://github.com/jelonmusk/midas/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/github/license/jelonmusk/midas.svg?style=flat-square)](https://github.com/jelonmusk/midas/blob/main/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/juvairiya-fathima/)
 
 

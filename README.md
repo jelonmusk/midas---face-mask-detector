@@ -113,7 +113,7 @@ $ streamlit run app.py
 <p align="center">Upload Images</p>
  -->
 <p align="center">
-  <img src="https://github.com/jelonmusk/midas/blob/main/image.png">
+  <img src="https://github.com/jelonmusk/midas/blob/main/image2.png">
 </p>
 <p align="center">Results</p>
 

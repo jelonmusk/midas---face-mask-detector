@@ -7,10 +7,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jelonmusk/final-year-project/issues)
-[![Stargazers](https://img.shields.io/github/stars/jelonmusk/final-year-project.svg?logo=github)](https://github.com/jelonmusk/final-year-project/stargazers)
-[![Issues](https://img.shields.io/github/issues/jelonmusk/final-year-project.svg?logo=github)](https://github.com/jelonmusk/final-year-project/issues)
-[![MIT License](https://img.shields.io/github/license/jelonmusk/final-year-project.svg?style=flat-square)](https://github.com/jelonmusk/final-year-project/blob/master/LICENSE)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jelonmusk/midas/issues)
+[![Stargazers](https://img.shields.io/github/stars/jelonmusk/final-year-project.svg?logo=github)](https://github.com/jelonmusk/midas/stargazers)
+[![Issues](https://img.shields.io/github/issues/jelonmusk/final-year-project.svg?logo=github)](https://github.com/jelonmusk/midas/issues)
+[![MIT License](https://img.shields.io/github/license/jelonmusk/final-year-project.svg?style=flat-square)](https://github.com/jelonmusk/midas/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/juvairiya-fathima/)
 
 

@@ -118,6 +118,9 @@ $ streamlit run app.py
 Feel free to mail me for any doubts/query 
 :email: jelonmusk@gmail.com
 
+## 📂 Project Report and Slides    
+Buy Face Mask Detection Report and Slides on @Gumroad https://jelonmusk.gumroad.com/l/pXTeR     
+
 ## :handshake: Contribution
 Feel free to **file a new issue** with a respective title and description on the the [MIDAS](https://github.com/jelonmusk/midas/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 

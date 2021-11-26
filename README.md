@@ -29,6 +29,7 @@ In 2020, the world changed. This project examines the coronavirus pandemic, the 
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
 
 ## :star: Features
+BUY REPORT AND PPT HERE: [BUY NOW](https://jelonmusk.gumroad.com/l/pXTeR)    
 Our face mask detector didn't use any morphed masked images dataset. The model is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient and thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
 
 In the current scenario, identification is manually performed by a person leading to inefficiency and inaccuracy, thereby demanding the need of human invigilator for monitoring.
